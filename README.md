@@ -1,6 +1,6 @@
 # Toyota-In-Space-My-First-Rust-Standalone-Project-
 
-![Car In Space With Asteroids](https://ibb.co/cxw9kR4)
+![Car In Space With Asteroids](https://i.ibb.co/fQ9WqZj/Screenshot-from-2024-01-29-10-32-13.png)
 
 This is just my practise of Bevy engine.
 
