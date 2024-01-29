@@ -1,18 +1,15 @@
 # Toyota-In-Space-My-First-Rust-Standalone-Project-
 
-This is just my practise of Bevy engine. Couldn't find a likable spaceship model!
+![Car In Space With Asteroids](https://ibb.co/cxw9kR4)
+
+This is just my practise of Bevy engine.
 
 ## Features
 
-- TODO
-- TODO
-- TODO
-- TODO
-- TODO
-- TODO
+- Missiles
+- WS movement
+- Rotation, spawning missiles, randomly spawning asteroids
 
 ## Licensing
 
-Mercedes model is downloaded. I found it, no license information.
-
-The project is based on Bevy 0.12 Beginner Tutorial on Youtube
+The project is based on Bevy 0.12 Beginner Tutorial on Youtube by Zymartu Games
